@@ -6,6 +6,7 @@
       "dependencies": {
         "react": "^18.3.1",
         "react-dom": "^18.3.1",
+        "todomvc-app-css": "^2.4.3",
       },
       "devDependencies": {
         "@rsbuild/core": "^1.2.8",
@@ -585,6 +586,8 @@
     "text-table": ["text-table@0.2.0", "", {}, "sha512-N+8UisAXDGk8PFXP4HAzVR9nbfmVJ3zYLAWiTIoqC5v5isinhr+r5uaO8+7r3BMfuNIufIsA7RdpVgacC2cSpw=="],
 
     "to-regex-range": ["to-regex-range@5.0.1", "", { "dependencies": { "is-number": "^7.0.0" } }, "sha512-65P7iz6X5yEr1cwcgvQxbbIw7Uk3gOy5dIdtZ4rDveLqhrdJP+Li/Hx6tyK0NEb+2GCyneCMJiGqrADCSNk8sQ=="],
+
+    "todomvc-app-css": ["todomvc-app-css@2.4.3", "", {}, "sha512-mSnWZaKBWj9aQcFRsGguY/a8O8NR8GmecD48yU1rzwNemgZa/INLpIsxxMiToFGVth+uEKBrQ7IhWkaXZxwq5Q=="],
 
     "ts-standard": ["ts-standard@12.0.2", "", { "dependencies": { "@typescript-eslint/eslint-plugin": "^5.0.0", "@typescript-eslint/parser": "^5.0.0", "eslint": "^8.0.1", "eslint-config-standard-jsx": "^11.0.0", "eslint-config-standard-with-typescript": "^23.0.0", "eslint-plugin-import": "^2.25.2", "eslint-plugin-n": "^15.0.0", "eslint-plugin-promise": "^6.0.0", "eslint-plugin-react": "^7.28.0", "minimist": "^1.2.6", "pkg-conf": "^4.0.0", "standard-engine": "^15.0.0" }, "peerDependencies": { "typescript": "*" }, "bin": { "ts-standard": "cli.js" } }, "sha512-XX2wrB9fKKTfBj4yD3ABm9iShzZcS2iWcPK8XzlBvuL20+wMiLgiz/k5tXgZwTaYq5wRhbks1Y9PelhujF/9ag=="],
 
